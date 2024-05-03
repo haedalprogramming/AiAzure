@@ -8,7 +8,7 @@ Azure 클라우드로 배우는 인공지능 기초
 
 # Contents
 
- - 1일차 : 전반적인 인공지능과 Microsoft Azure AI 기는 소개 (AI-900)
+ - 1일차 : 전반적인 인공지능과 Microsoft Azure AI 기능 소개 (AI-900)
     - 인공지능 소개
     - Microsoft Azure AI 소개
     - Computer vision 소개
@@ -16,7 +16,7 @@ Azure 클라우드로 배우는 인공지능 기초
     - 음성 서비스 소개
     - etc.
 
- - 2일차 : Azure 비전을 사용하여 Computer Vision 솔루션 만들기
+ - 2일차 : Azure 비전을 사용하여 Computer Vision 솔루션 개발
     - Computer Vision 기술 소개
     - 사용자 지정 Azure AI Vision 모델을 사용하여 이미지 분류
     - 얼굴 감지, 분석 및 인식
