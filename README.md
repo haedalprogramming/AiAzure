@@ -1,10 +1,13 @@
 # AiAzure
 Azure 클라우드로 배우는 인공지능 기초
 
+# Goal
+인공지능의 기본 원리를 이해하고 Microsoft Azure AI를 이용하여 인공지능 시스템을 실습한다.
+
 # Target
- - 인공지능의 기본 원리 이해
- - Microsoft Azure AI 이해
- - Microsoft learn 이용한 인공지능 시스템 실습
+ - 인공지능의 기본 원리를 알고 싶은 사람
+ - Microsoft Azure AI의 사용법을 배우고 싶은 사람
+ - Microsoft Certified: Azure AI Fundamentals을 취득하고 싶은 사람
 
 # Contents
 
